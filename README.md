@@ -40,4 +40,5 @@ You can change the configuration as needed. The $$ sign separates the code into 
 I don't get notified of your reviews, and properly troubleshooting an issue through them is nearly impossible. Instead, please either use the [issue tracker (preferred),](https://github.com/AndreyKaiu/Anki_Insert-HTML-wrapper-for-your-style/issues) add-on, or just message me at [andreykaiu@gmail.com.](mailto:andreykaiu@gmail.com) Constructive feedback and suggestions are always welcome!
 
 **VERSIONS**
+- 1.1, date: 2026-11-08. Fix cut.
 - 1.0, date: 2026-02-15. First release.
