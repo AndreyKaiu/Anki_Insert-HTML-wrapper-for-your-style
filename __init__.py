@@ -110,7 +110,7 @@ def on_menu_action(editor, tag_def: str):
                             clp = editor.web._clipboard()
                             if clp:
                                 text = clp.text()                                
-                                clp.setText(wrapped)
+                                clp.setText(text)
                                 QTimer.singleShot(50, editor.web.onPaste)
                                 QTimer.singleShot(80, tooltipPaste)
                     
