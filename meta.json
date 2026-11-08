@@ -1,10 +1,10 @@
 {
     "name": "Insert HTML wrapper for your style",
-    "mod": 1745053321,
-    "min_point_version": 1,
-    "max_point_version": 1,
+    "mod": 1794157453,
+    "min_point_version": 0,
+    "max_point_version": 260904,
     "branch_index": 0,
-    "disabled": false,
+    "disabled": true,    
     "conflicts": [],
-    "update_enabled": true    
+    "update_enabled": true
 }
